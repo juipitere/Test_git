@@ -1,9 +1,11 @@
-<<<<<<< HEAD
 a: bangayo!
-=======
-B : Hi~~
->>>>>>> 446dc439df47a06a09a0155b2a9895deacfec8f9
 
 3rd test
 
 4 
+
+5
+
+6
+
+7
